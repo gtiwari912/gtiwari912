@@ -4,7 +4,7 @@
 Hi, I'm Gaurav! I'm a Computer Engineering student who is passionate about learning and experimenting with new technologies, right now I am getting my hand dirty with Android Apps Developmet. 
 
 ### Find me around the web 🌎
-- Learning in public on <a href="https://leetcode.com/2001GauravT" target="_blank" rel="noopener noreferrer">LeetCode</a> 📹 ✍🏾
+- Learning in public on <a href="https://leetcode.com/tiwariGaurav007/" target="_blank" rel="noopener noreferrer">LeetCode</a> 📹 ✍🏾
 - Interacting with people on <a href="https://instagram.com/gaurav_tiwari_7" target="_blank" rel="noopener noreferrer"> Instagram</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/gauravtiwaricoder/" target="_blank" rel="noopener noreferrer">LinkedIn</a> 💼
 
